@@ -10,5 +10,5 @@ Problem Statement :-
 Data Set Information :- Name (Employee which clear the interview) ,employee  Performance , IQ , Motivation , Annual Salary.
 Applying correlation matrix concept for finding performance impacts
 Building predictive model using multiple linear regression by assuming input (x) value
-Preparing dashboard for predictive model in excel by exploring link function of excel
+Preparing dashboard for predictive model in excel by exploring link function of excel.
 
